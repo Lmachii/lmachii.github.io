@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Capture1.png
+image: images/Capture1.PNG
 title: Modular IoT Hydroponics
 permalink: projects/hydroponics
 # All dates must be YYYY-MM-DD format!
