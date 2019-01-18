@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of things",
       "keywords": [
         "Arduino",
         "Raspberry Pi"
@@ -38,6 +38,8 @@
     {
       "name": "Renewable Energy",
       "keywords": [
+        "Photo Voltaic",
+        "Electromagnetics"
       ]
     },
     {
@@ -67,9 +69,9 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Windows OS",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -83,10 +85,11 @@
       "gpa": "",
       "courses": [
         "ICS 451",
+        "ICS 314",
         "EE 361",
         "EE 367",
         "EE 371",
-        
+        "EE 323"
       ]
     }
   ],
