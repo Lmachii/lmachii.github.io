@@ -10,6 +10,7 @@ labels:
   - ESlint
   - IntelliJ
 ---
+<img class="ui medium left floated image" src="../images/Check.png">
 ## Does it matter?
 Most of the time people would consider coding style to only matter in different environments to make code readable to people who would be reading it.  However I would argue that coding style is the single most important way of learning and memorizing a different language.  This is because when coding with a new language there will always be a moment where a programmer will think, "I could do this so easily in X language instead of this one".  Therefore I believe that if a programmer learns a language in a similar coding style, they will be able to transfer over similar knowledge.  In short, yes I believe that coding standards matter when learning a new language and judging by the past languages being created, it is safe to assume that there will be many more languages to learn.
 
