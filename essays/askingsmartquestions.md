@@ -5,7 +5,7 @@ title: Smart Questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-24
 labels:
-  - Stact Overflow
+  - Stack Overflow
   - Learning
 ---
 ## The Good
