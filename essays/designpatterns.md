@@ -9,7 +9,7 @@ labels:
   - Design Pattern
 ---
 <img class="ui medium left floated image" src="../images/designpatterns.jpg">
-## The black box
+## The Black Box
 A design pattern is essentially a fancy way of saying copy and paste.  Generally speaking, a design pattern is a solution, or set of solutions, for a common reoccurring problem.  The question you might be asking is "Why would you have a reoccurring problem and not solve it once and be done?".  The answer to this question is very simple in that it's to teach newbies and act as a platform to learn about a problem.  I like to think of a design pattern as a black box as referenced in algebra when discussing functions.  Many mathematicians will refer to a formula that performs some calculation as a "black box" that takes an input and spits out the answer.  This is very similar to a design patter because many people who are learning a new idea in software design can use the "black box" to get the same or desired result.
 
 ## Continuing Success
