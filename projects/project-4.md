@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Capture2.PNG
+image: images/rainbowclubs.png
 title: Wave Energy Conversion
 permalink: projects/waveconversion
 # All dates must be YYYY-MM-DD format!
