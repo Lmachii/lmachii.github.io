@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rainbowclubs.jpg
+image: images/rainbowclubs.png
 title: ICS314 Project: Rainbow Clubs
 permalink: projects/rainbowclubs
 # All dates must be YYYY-MM-DD format!
