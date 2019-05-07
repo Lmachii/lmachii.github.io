@@ -8,10 +8,11 @@ permalink: projects/rainbowclubs
 date: 2015-12-15
 labels:
   - Javascript
-  - Node red
-  - Raspberry Pi
-  - Electromagnetic
-  - Arduino
+  - Meteor
+  - React
+  - Mongo DB
+  - Semantic UI
+  - CSS/HTML
 summary: Converting the energy in ocean waves into usable electric power that can be used to charge drones.
 ---
 This project is a collaboration between REDlab members and graduate student Nicholas Ulm.  He presented to us his idea of creating a full sized buoy that directs waves in the ocean into it's main chamber.  The main chamber is shaped like a large cylinder but the water does not fill it entirely.  The ocean waves that enter the chamber cause the air inside the chamber to pressurize and attempt to escape through the top of the chamber.  We then place a turbine at the top of the chamber.  In our case we are using a turbo charger normally used on cars since it's design is airtight and is capable of spinning up to very high speeds.  The shaft of the turbine is connected to a generator and generates energy.  We are using a car alternator for this as a commercial alternator is very refined in it's design and for our project specifically we simply want to prove a concept.
