@@ -1,16 +1,19 @@
 ---
 layout: project
 type: project
-image: images/arduino.jpg
-title: Arduino Steering Wheel
-permalink: projects/arduinowheel
+image: images/rainbowclubs.png
+title: ICS 314 Project: Rainbow Clubs
+permalink: projects/rainbowclubs
 # All dates must be YYYY-MM-DD format!
-date: 2017-10-15
+date: 2019-4-5
 labels:
-  - Arduino
-  - C
-  - Circuits
-summary: A simple circuit that utilizes various arduino libraries to create a steering wheel with pedals that can be used on a PC.
+  - Javascript
+  - Meteor
+  - React
+  - Semantic UI
+  - CSS
+  - HTML
+summary: This is a website that displays all information for registered clubs at UH Manoa.  It also has functions that allows updating club information, review clubs, and moderator capabilities.
 ---
 
 The purpose of this project was simply the desire to create a steering wheel pedal combo for a much lower cost than commercial products.  The basis of this project uses an arduino nano.  I have used various libraries such as the controller library as well as a specific steering wheel library.  
