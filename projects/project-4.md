@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/rainbowclubs.png
-title: Wave Energy Conversion
-permalink: projects/waveconversion
+title: Rainbow Clubs
+permalink: projects/rainbowclubs
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
