@@ -71,7 +71,7 @@
         "Ubuntu",
         "Windows OS",
         "Git/GitHub",
-        "g++",
+        "g++"
       ]
     }
   ],
@@ -80,8 +80,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2015-08-015",
-      "endDate": "Present",
+      "startDate": "2015-08-15",
+      "endDate": "2019-05-11",
       "gpa": "",
       "courses": [
         "ICS 451",
@@ -104,7 +104,7 @@
       "highlights": [
         "Orginize, effectively move books and other library files."
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -135,7 +135,7 @@
       "date": "2015-Present",
       "awarder": "Kamehameha Schools",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who are of Hawaiian decent and meet other educational qualifications."
-    },
+    }
   ],
   "references": [
     {
