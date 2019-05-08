@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "lmachii",
         "url": "https://www.linkedin.com/in/lmachii/"
-      },
+      }
     ]
   },
   "interests": [
@@ -100,7 +100,7 @@
       "website": "",
       "startDate": "2016-02",
       "endDate": "Present",
-      "summary": "Asistant for moving and reshelving books",
+      "summary": "Assistant for moving and shelving books",
       "highlights": [
         "Orginize, effectively move books and other library files."
       ]
@@ -117,7 +117,7 @@
       "highlights": [
         "Demand-Response: Control system that would monitor power consumption and normalize irregular levels",
         "Modular IoT Hydroponics: A semi-autonomous hydroponics system that would be monitored through various sensors",
-        "Wave Energy conversion: Utilze energy from ocean waves to create useable electric power"
+        "Wave Energy conversion: Utilize energy from ocean waves to create usable electric power"
       ]
     },
     {
