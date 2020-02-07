@@ -32,7 +32,8 @@
       "name": "Internet of things",
       "keywords": [
         "Arduino",
-        "Raspberry Pi"
+        "Raspberry Pi",
+        "C/C++"
       ]
     },
     {
@@ -85,12 +86,12 @@
       "endDate": "2019-05-11",
       "gpa": "",
       "courses": [
-        "ICS 451",
-        "ICS 314",
-        "EE 361",
-        "EE 367",
-        "EE 371",
-        "EE 323"
+        "ICS 451 Networking",
+        "ICS 314 Software Engineering",
+        "EE 361 Computer Architecture",
+        "EE 367 Algorithms",
+        "EE 371 Electromagnetics",
+        "EE 323 Semiconductors"
       ]
     }
   ],
@@ -99,11 +100,22 @@
       "company": "UH Manoa Library Services",
       "position": "Stacks assistant",
       "website": "",
-      "startDate": "2016-02",
+      "startDate": "February 2016-02",
       "endDate": "2019-05-11",
       "summary": "Assistant for moving and shelving books",
       "highlights": [
         "Orginize, effectively move books and other library files."
+      ]
+    },
+    {
+      "company": "Network 2000 LLC.",
+      "position": "Field Technician",
+      "website": "http://www.network2000-hi.com/",
+      "startDate": "June 2019",
+      "endDate": ,
+      "summary": "Solves various IT related problems including networking, hardware, and software.",
+      "highlights": [
+        "Exclusively on Kamehameha Schools Contract Team",
       ]
     }
   ],
