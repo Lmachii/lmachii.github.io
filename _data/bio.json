@@ -6,7 +6,7 @@
     "email": "lmachii@hawaii.edu",
     "phone": "808-206-6691",
     "website": "https://lmachii.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "Field Technician for Network 2000 LLC. with a B.S. in Computer Engineering currently looking for an entry level engineering position.",
     "location": {
       "address": "86-282 Hokuukali pl.",
       "postalCode": "96792",
@@ -60,7 +60,8 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Verilog"
+        "Verilog",
+        "React"
       ]
     },
     {
