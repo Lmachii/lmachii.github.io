@@ -4,13 +4,13 @@
     "label": "Student",
     "picture": "https://lmachii.github.io/images/photo.jpg",
     "email": "lmachii@hawaii.edu",
-    "phone": "808-206-6691",
+    "phone": "",
     "website": "https://lmachii.github.io",
     "summary": "Field Technician for Network 2000 LLC. with a B.S. in Computer Engineering currently looking for an entry level engineering position.",
     "location": {
-      "address": "86-282 Hokuukali pl.",
-      "postalCode": "96792",
-      "city": "Waianae",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
